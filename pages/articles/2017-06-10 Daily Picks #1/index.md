@@ -1,7 +1,7 @@
 ---
 title: Picks { 1 }
 layout: post
-path: "/test/"
+path: "/daily-picks-1/"
 readNext: "/hi-folks/"
 category: "Picks"
 description: Gatsby, FrontEnd Happy Hour, Last Young Renegade
