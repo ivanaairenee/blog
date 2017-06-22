@@ -13,4 +13,4 @@ It is not a new article. It was published back in March and I've stumbled upon i
 
 **Missive**
 
-<a href="https://missiveapp.com/">Missive</a> is an email app that target teams and provide feautures like team email management, assignment, and shared labels. It's part email client part trello and part slack, I think. <a href ="http://hn.premii.com/#/article/14564189">Read the author's article on HackerNews</a> that talks about the stacks that they use and <a href="https://missiveapp.com/">visit their official website</a>.
+<a href="https://missiveapp.com/">Missive</a> is an email app that target teams and provide features like team email management, assignment, and shared labels. It's part email client part trello and part slack, I think. <a href ="http://hn.premii.com/#/article/14564189">Read the author's article on HackerNews</a> that talks about the stacks that they use and <a href="https://missiveapp.com/">visit their official website</a>.
